@@ -1,0 +1,12 @@
+------------------------------------
+      STUDENT PROFILE SYSTEM        
+------------------------------------
+Name:ambuj
+Roll No:2222
+Course:bca
+University:krmu
+City:sohna
+Age:22
+Hobby:gaming
+----------------------------------------
+Welcome to python programming!
